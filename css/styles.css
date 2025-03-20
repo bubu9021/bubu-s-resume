@@ -6,15 +6,15 @@
 /* Styles for the body */
 
 body {
-	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: Lato, "Open Sans", Georgia, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: #202030;
-	background-color: #FFFFFF;
+	background-color: #b7e5ff;
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #FFDFBB;
+    background-color: #FFFFFF;
 }
 
 .resume-main {
@@ -48,4 +48,12 @@ body {
 .contact-icon {
 	height: 1em;
 	flex-basis: 1.4em;
+}
+
+.custom-name {
+    font-family: 'Poppins', sans-serif;
+    color: #85a3c9;
+    font-size: 40px;
+    font-weight: bold;
+    letter-spacing: 1px;
 }
