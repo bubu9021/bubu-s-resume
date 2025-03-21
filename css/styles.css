@@ -22,7 +22,7 @@ body {
 }
 
 .resume-aside {
-	background-color: #fff0e0;
+	background-color: #85a3c9;
 }
 
 /* Styles for lists in the document */
@@ -36,7 +36,7 @@ body {
 }
 
 .biography-details li::before {
-	color: #EE7623;
+	color: #b7e5ff;
 }
 
 .biography-details li, .skill-list li {
@@ -51,7 +51,7 @@ body {
 }
 
 .custom-name {
-    font-family: 'Poppins', sans-serif;
+    font-family: Boldonse;
     color: #85a3c9;
     font-size: 40px;
     font-weight: bold;
